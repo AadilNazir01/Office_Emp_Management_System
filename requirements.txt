@@ -1,0 +1,4 @@
+django>=4.0
+psycopg2-binary  # If using PostgreSQL
+mysqlclient      # If using MySQL
+djangorestframework  # If using Django REST framework
